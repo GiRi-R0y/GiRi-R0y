@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiRi-R0y
-- 👀 I’m interested in Hthical Hacking and CyberSecurity
+- 👀 I’m interested in Ethical Hacking and CyberSecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
